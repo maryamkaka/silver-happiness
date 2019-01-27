@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true
+}
