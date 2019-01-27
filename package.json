@@ -1,0 +1,23 @@
+{
+  "name": "silver-happiness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ".\\node_modules\\.bin\\tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryamkaka/silver-happiness.git"
+  },
+  "author": "Me, Myself, and I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryamkaka/silver-happiness/issues"
+  },
+  "homepage": "https://github.com/maryamkaka/silver-happiness#readme",
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  }
+}
